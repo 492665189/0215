@@ -39,6 +39,61 @@ DOMAIN-SUFFIX,so.com
 # 58
 DOMAIN-SUFFIX,58.com
 
+# pt
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,chddiy.xyz
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,xp.m-team.cc
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,hdchina.org
+DOMAIN-SUFFIX,pt.btschool.club
+DOMAIN-SUFFIX,pt.keepfrds.com
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,hdarea.club
+DOMAIN-SUFFIX,hdatmos.club
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,ptsbao.club
+DOMAIN-SUFFIX,hdvideo.one
+DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,ptcafe.club
+DOMAIN-SUFFIX,new.agsvpt.com
+DOMAIN-SUFFIX,qingwapt.com
+DOMAIN-SUFFIX,crabpt.vip
+DOMAIN-SUFFIX,pt.ecust.pp.ua
+DOMAIN-SUFFIX,piggo.me
+DOMAIN-SUFFIX,pt.0ff.cc
+DOMAIN-SUFFIX,leaves.red
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,wintersakura.net
+DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,1ptba.com
+DOMAIN-SUFFIX,nicept.net
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,pandapt.net
+DOMAIN-SUFFIX,dajiao.cyou
+DOMAIN-SUFFIX,icc2022.com
+DOMAIN-SUFFIX,ptchina.org
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,hdcity.city
+DOMAIN-SUFFIX,zhuque.in
+DOMAIN-SUFFIX,ubits.club
+DOMAIN-SUFFIX,pt.soulvoice.club
+DOMAIN-SUFFIX,haidan.video
+DOMAIN-SUFFIX,zmpt.cc
+DOMAIN-SUFFIX,cyanbug.net
+DOMAIN-SUFFIX,hdpt.xyz
+DOMAIN-SUFFIX,greatposterwall.com
+DOMAIN-SUFFIX,dicmusic.com
+DOMAIN-SUFFIX,kamept.com
+DOMAIN-SUFFIX,pt.itzmx.com
+
 # Alibaba
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,aliapp.org
@@ -162,7 +217,6 @@ DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
 
-
 # HuaWei
 DOMAIN-SUFFIX,dbankcdn.com
 DOMAIN-SUFFIX,hc-cdn.com
@@ -174,7 +228,6 @@ DOMAIN-SUFFIX,huaweishop.net
 DOMAIN-SUFFIX,hwccpc.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
-
 
 # Iqiyi
 DOMAIN-SUFFIX,71.am
